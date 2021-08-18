@@ -1,0 +1,37 @@
+*{
+    padding:0;
+    margin:0;
+}
+.people{
+    font-family: 'Courier New', Courier, monospace;
+    display:flex;
+    background-image:url("kobu-agency-7okkFhxrxNw-unsplash.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    padding:50px;
+
+}
+.chair{
+    background-color:rgba(70,150,255,.4);
+    padding:30px;
+}
+.chair h2{
+    text-transform:uppercase;
+    text-align:center;
+    font-family:'Times New Roman', Times, serif;
+    font-size:45px;
+    padding:45px;
+    margin:20px;
+}
+.manager{
+    background-color:rgba(70,150,255,.4);
+    padding:50px;
+}
+.manager h2{
+    text-transform:uppercase;
+    text-align:center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:45px;
+    padding:45px;
+    margin:20px;
+}

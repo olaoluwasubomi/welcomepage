@@ -1,0 +1,39 @@
+*{
+    padding:0;
+    margin:0;
+}
+
+h3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:40px;
+    text-align: center;
+    text-decoration: wavy;
+    text-transform: uppercase;
+    padding:20px;
+    color:burlywood;
+}
+.text{
+    line-height:20px;
+    font-style:normal;
+    font-size:30px;
+    word-spacing:15px;
+    text-indent: 70px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.image{
+    background-image:url("kobu-agency-7okkFhxrxNw-unsplash.jpg");
+    background-size:100vh;
+    background-repeat: no-repeat;
+    height:50vh;
+    margin:20px;
+    /* padding:20px; */
+    text-transform: uppercase;
+    text-align:center;
+    font-size:25px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+
+}
+.image{
+    display:flex;
+}
